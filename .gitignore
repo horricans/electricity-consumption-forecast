@@ -1,0 +1,19 @@
+.env
+__pycache__/
+*.pyc
+
+# Data files
+data/
+
+# Generated plots
+notebooks/yearly_plots/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+.venv/
+
+# OS
+.DS_Store
