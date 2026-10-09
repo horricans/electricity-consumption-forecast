@@ -64,7 +64,6 @@ The raw data is not included in this repository (`data/` is git-ignored).
 | `notebooks/06_features.ipynb` | Feature engineering |
 | `notebooks/07_LightGBM.ipynb` | LightGBM training, feature selection and tuning |
 | `project_documentation.md` | Detailed write-up of the data pipeline and feature rationale |
-| `eda_bulgular.md` | EDA findings (Turkish) |
 
 ## Setup
 
